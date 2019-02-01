@@ -5,4 +5,5 @@ For anybody who does research in the lab should submit a Virtual Standup Report 
 The goal of submitting Virtual Standup is two-foeld 1) self-reflection and 2) regular communication with your adviser. Use it to recall what you have done a last few days and to plan what you are going to do for the next few days. If you have done nothing, and if you are not going to do anything at all, still submit it. We want to have visibility on not being able to make any progress as well for self-reflection. 
 
 Here are some rules
-- On the top of the document, maintain a long-term to do list with associated due date (if there is) 
+- On the top of the document, maintain a long-term to do list with associated due date. Everything has a due date. 
+- Below the table it should have a report in descending order. 
