@@ -6,7 +6,7 @@ The goal of submitting Virtual Standup is two-foeld 1) *self-reflection* and 2) 
 
 Here is a sample virtual standup report: https://drive.google.com/open?id=1hTWOfzuCnW8Qs8VYlUq1ubUQnNDSmf0cti57owHQBko 
 
-Rules
+## Rules
 - The report will be shared within the lab. You can learn what other folks are doing by reading this. 
 - On the top of the document, maintain a long-term to do list with associated due date. Everything has a due date. 
 - Below the table it should have a report in descending order. 
@@ -14,4 +14,6 @@ Rules
   - It should contain the following three sections
     - (completed) the tasks that were compmleted since the last standup
     - (plan/in-progress) the tasks that you will work on until the next standup
-    - (blockers) anything that kept (or keeps) from you making a progress (e.g. ilness, too much courseworkload, mid-term exam, collaborators, emotional challenges) Note that this repot is open to your colleagues so you should not write anytihng that you cannot open to peers for any reason. 
+    - (blockers) anything that kept (or keeps) from you making a progress (e.g. ilness, too much courseworkload, mid-term exam, collaborators, emotional challenges) Note that this repot is open to your colleagues so you should not write anytihng that you cannot open to peers for any reason.
+  - if a task appear in the (plan/in-progress), your goal is to make the item appear in the (completed) section). Make sure that you don't have any orphansed task items. This means that you plan something that you. 
+  - If you have done nothing for particular period, submit a empty report. Missing reports from time to time is fine. Unexpected things happen. However, if it becomes your habit, you want to keep track of this behavior and reflect on it too. 
