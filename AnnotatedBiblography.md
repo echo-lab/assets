@@ -28,4 +28,5 @@ When reading a paper, these are the general questions to that I would stick to.
 For more information about annotated biblography, please check out the following links: 
 
 https://guides.library.cornell.edu/annotatedbibliography
+
 http://www.easybib.com/guides/annotated-bibliographies/
