@@ -11,6 +11,21 @@ Each entry on one paper should include following information
 - Self reflection on the paper
   - how it relates to your project? 
   - in which purpose would you cite it. 
+  
+In addition, it is great if you annotate the paper (pdf/paper) so that you can quickly review how you liked the paper. In that sense, it makes sense to also store the pdf somewhere. EndNote or Google Drive, both of which are free for Virginia Tech. students. For annotation, personally, I tend to simply highlight the sentences that resonates in me. Also, it is good to highlight keywords and sentences that can summarize each paragraph.
 
+When reading a paper, these are the general questions to that I would stick to. 
 
-Therefore, I would ask you 
+- What is the prolbem that they are attacking? 
+- What is the research contribution of the paper? 
+- What is their research method? 
+- What can be generalized? 
+- What is a missing knwoledge gap that they try to fill in? 
+- How does it relates to my research? 
+- What are the findings that helps me do whatever I can do? 
+- How my research is different from the work and similar to my work?
+
+For more information about annotated biblography, please check out the following links: 
+
+https://guides.library.cornell.edu/annotatedbibliography
+http://www.easybib.com/guides/annotated-bibliographies/
