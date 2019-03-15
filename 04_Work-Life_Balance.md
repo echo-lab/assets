@@ -1,3 +1,7 @@
+## Lab Attendnace Policy 
+
+## Working Hours Policy 
+
 ## Vacation Policy 
 
 - a Ph.D. student gets 15 working days off per year with 2 X N working days before where N is the number of date that you are going to use for vacation. e.g. If you are going to take a day off on Monday, you have to tell me at latest Thursday. 
