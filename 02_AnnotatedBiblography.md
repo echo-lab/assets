@@ -8,6 +8,7 @@ Each entry on one paper should include following information
 - Autohrs of the paper
 - the most offficial url of the paper (e.g. ACM DL) 
 - Brief summary of the paper (2~4 sentences) 
+- Method (what they did and how did they valiadte it?) 
 - Self reflection on the paper
   - how it relates to your project? 
   - in which purpose would you cite it. 
