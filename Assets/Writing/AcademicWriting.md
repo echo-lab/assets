@@ -42,3 +42,18 @@
 - (Future Work) 
 - Conclusion --> 3 minute version of your paper
   - summarize result
+
+# Tense
+
+- (Past tense) 
+  - when describing what people have done in the past. 
+  - when describing what you did in your method (implementation / user study) 
+- (Future tense) 
+  - Nope. No future tense is used in academic writing unless it is a proposal. Not even for a future work. (Say we "plan to") unless you are 100% sure that you "will" do it, which cannot be true. 
+- (Present perfect tense) 
+  - When you want to say what people "have done". This means that there is a body of work that multiple researchers worked on the topic that you describe. 
+- (Present tense) 
+  - everything else.
+- Useful Links
+  - https://writingcenter.unc.edu/tips-and-tools/verb-tenses/
+  - https://writeitrightstudycoach.wordpress.com/tips-for-writing-your-dissertation/
