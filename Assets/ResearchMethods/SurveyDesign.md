@@ -1,4 +1,4 @@
-Got some thoughts while I was working on a survey design, which I think it's nice to share in this channel. In general I think it is important to think about two things when you design survey :
+Got some thoughts while I was working on a survey design, which I think it's nice to share this in a document. 
 
 1) to think about the purpose of the questions. Think about kinds of sentences that you will be able to write in the paper. For example, if you want to have a sentence like "70% of the respondents prefer to use smartphones when they communicate with their family in their workplace." if that's the purpose, simply create a question that is quantifiable (with multiple choice questions rather than open-ended questions)
 
@@ -6,4 +6,4 @@ Got some thoughts while I was working on a survey design, which I think it's nic
 
 I am pretty sure there is a formal way to describe this but I have never learned the topic. If you are interested in these, please consider to take a formal courses like below.  This following course can count as a cognate course for CS Ph.D. students in Virginia Tech.
 
-EDRE 5644: Questionnaire Design and Survey Research 
+EDRE 5644: Questionnaire Design and Survey Research
