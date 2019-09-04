@@ -9,8 +9,7 @@ Here is a sample virtual standup report: https://drive.google.com/open?id=1hTWOf
 ## Policy
 - The report will be shared within the lab. You can learn what other folks are doing by reading this.
 - On the top of the document, maintain a long-term to do list with associated due date. Everything has a due date. 
-- The report should be ordered in *reverse chronological order* (the most recent on the top) 
-- Below the table it should have a report in descending order. 
+- Below the table it should have a report in reverse chronological order(the most recent on the top) . 
   - Each report starts with the date of submission
   - It should contain the following three sections
     - (completed) the tasks that were compmleted since the last standup
