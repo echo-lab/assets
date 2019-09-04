@@ -7,8 +7,9 @@ The goal of submitting Virtual Standup is two-fold 1) self-reflection and 2) reg
 Here is a sample virtual standup report: https://drive.google.com/open?id=1hTWOfzuCnW8Qs8VYlUq1ubUQnNDSmf0cti57owHQBko 
 
 ## Policy
-- The report will be shared within the lab. You can learn what other folks are doing by reading this. 
+- The report will be shared within the lab. You can learn what other folks are doing by reading this.
 - On the top of the document, maintain a long-term to do list with associated due date. Everything has a due date. 
+- The report should be ordered in *reverse chronological order* (the most recent on the top) 
 - Below the table it should have a report in descending order. 
   - Each report starts with the date of submission
   - It should contain the following three sections
