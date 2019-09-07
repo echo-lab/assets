@@ -17,8 +17,8 @@ Here is a sample virtual standup report: https://drive.google.com/open?id=1hTWOf
     - (blockers) anything that kept (or keeps) from you making a progress (e.g. ilness, too much courseworkload, mid-term exam, collaborators, emotional challenges) Note that this repot is open to your colleagues so you should not write anytihng that you cannot open to peers for any reason.
   - Anthing that is written in the report should be a *fact*. A fact is a statement that can be verified. It can be proven *to be true or false through objective evidence*. 
   - Example 1 ) "some ideas through brainstroming" is true only if there is a document that has a list of ideas
-  - Example 2 ) "Read one paper" is true only if they wrote a summmary and reflection.
-  - Example 3 ) "Spent some time to explore ideas" can never be a fact because you cannto prove with an evidence. 
+  - Example 2 ) "Read one paper" is true only if they wrote a summmary and reflection (evidence).
+  - Example 3 ) "Spent some time to explore ideas" can never be a fact because you cannot prove with an evidence. 
 - if a task appear in the (plan/in-progress), your goal is to make the item appear in the (completed) section). Make sure that you don't have any orphansed task items. This means that you plan something that you. 
 - If you have done nothing for particular period, submit a empty report. Missing reports from time to time is fine. Unexpected things happen. However, if it becomes your habit, you want to keep track of this behavior and reflect on it too. 
 - The project advisor (typically Sang Won Lee) will review the document and leave comments on the report. 
