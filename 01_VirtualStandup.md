@@ -36,5 +36,3 @@ Here is a sample virtual standup report: https://drive.google.com/open?id=1hTWOf
 
 - If you have done nothing for particular period, submit a empty report. Missing reports from time to time is fine. Unexpected things happen. However, if it becomes your habit, you want to keep track of this behavior and reflect on it too. 
 - The project advisor (typically Sang Won Lee) will review the document and leave comments on the report. 
-- Plan 
-
