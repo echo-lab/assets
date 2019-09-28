@@ -15,10 +15,11 @@ Here is a sample virtual standup report: https://drive.google.com/open?id=1hTWOf
     - (completed) the tasks that were compmleted since the last standup
     - (plan/in-progress) the tasks that you will work on until the next standup
     - (blockers) anything that kept (or keeps) from you making a progress (e.g. ilness, too much courseworkload, mid-term exam, collaborators, emotional challenges) Note that this repot is open to your colleagues so you should not write anytihng that you cannot open to peers for any reason.
-  - Anthing that is written in the report should be a *fact*. A fact is a statement that can be verified. It can be proven *to be true or false through objective evidence*. 
+  - Anything that is written in the report should be a *fact*. A fact is a statement that can be verified. It can be proven *to be true or false through objective evidence*. Any task should produce an artifact (typically digital artifacts - file, document, file, annnotated pdfs, pictures of whiteboard) 
   - Example 1 ) "some ideas through brainstroming" is true only if there is a document that has a list of ideas
   - Example 2 ) "Read one paper" is true only if they wrote a summmary and reflection (evidence).
   - Example 3 ) "Spent some time to explore ideas" can never be a fact because you cannot prove with an evidence. 
+  - Example 4 ) "Looking into Matlab" can never be a task - it does not produce an artifact. 
   - You may say there are certain types of works that are not visible even after you complete it. For example, reading someone else's code can be it. If so, change the way you work so that your putting efforts into something will ALWAYS generate some sort of artifacts.  (e.g. if you read someone else's code, document the code with comments or come up with some test cases that you ran, or even capture your screen) This is obvioiusly better for collaboration and also better for yourself as well because you collaborate with yourself (you from the past or you in the future). 
 - if a task appear in the (plan/in-progress), your goal is to make the item appear in the (completed) section). Make sure that you don't have any orphansed task items. This means that you plan something that you. 
 - If you have done nothing for particular period, submit a empty report. Missing reports from time to time is fine. Unexpected things happen. However, if it becomes your habit, you want to keep track of this behavior and reflect on it too. 
