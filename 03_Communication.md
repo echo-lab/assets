@@ -42,3 +42,12 @@ Email is used when
 - When you would like to involve someone outside the lab in a conversation. 
 - When you would like to send a file that needs to be archived. 
 - When you would like to foward someone else' email to one of us. 
+
+# Website
+
+Everyone in the lab should create a professional web presence. (the worst possible case, LinkedIn but yes, it is the worst) - the lab that I used to be part of required everyone to create a personal website and I thought it was really good idea for students to create a website. (not the one for personal use but for the professional use) Cuz Websites can have something that your resume cannot (multimedia, images, other relevant links) - Please consider making one - it can be simple.
+
+This is the lab where I got phd from : https://web.eecs.umich.edu/~wlasecki/croma.html use this as an example of what you can make and how simple it can be at your level. but one important thing is that you can see that almost everyone has their own web site. 
+
+If you are a phd student and does not have a website, that's a big problem. 
+(Once you have websites and then I can start to link those from mine --> which gives you extra visibility --> extra opportunities)  
