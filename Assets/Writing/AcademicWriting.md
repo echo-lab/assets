@@ -2,7 +2,7 @@
 
 # Be repeative. 
 
-## 3 rules in writing. 
+## 3 rules on what tow rite in writing. 
 
 - Say what you are going to say. 
 - Say it. 
@@ -57,3 +57,7 @@
 - Useful Links
   - https://writingcenter.unc.edu/tips-and-tools/verb-tenses/
   - https://writeitrightstudycoach.wordpress.com/tips-for-writing-your-dissertation/
+  
+  # Some random advices
+  
+  - The art of academic writing is not to impress readers but to make them difficult to disagree with you. 
