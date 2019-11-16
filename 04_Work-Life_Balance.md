@@ -8,18 +8,19 @@ Assumption: The underlying assumption of having "work-life balance" in a researc
 
 ## Working Hours Policy 
 
-1. *Set you goal (Goal).*
-   - Know how much you want to work. 
+0. This is purely for research hours 
+   - Not the hours you spend for other activities (etc., TA, coursework, services) 
+1. *Know how much you want to work (Desire).*
 2. *Keep track of your time (Reality).* 
    - Know how much you (actually) work. 
    - Hint: it is not the number of hours that you use your laptop nor the number of hours that you are in school. 
    - Actively keep track of your time. 
    - I recommend you to log your time in a paper notebook. (read this: https://www.calnewport.com/blog/2013/12/21/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/)
-3. *Reduce the discrepancy.*: Match the reality with your goal, or adjust the goal to match your reality. Be honest with yourself.
-4. *I don't care.*: I don't care about your goal(1) until 2 and 3 are are satisfied. If I have to care about your goal(1) because you are not making any meaningful progress even if 2 and 3 are satisfied, it probably one of these cases: 
+3. *Reduce the discrepancy.*: Match the reality with your desire, or adjust your desire to match your reality. Be honest with yourself.
+4. *I don't care.*: I don't care about your desire(1) until 2 and 3 are are satisfied. If I have to care about your desire(1) because you are not making any meaningful progress even if 2 and 3 are satisfied, it is probably one of these cases: 
     - Your time tracking is incorrect. 
     - You are lying (to me or to yourself). 
-    - You are not serious about this job (e.g., Your goal is to work 5 hours a week).
+    - You are not serious about this job (e.g., Your desire is to work 5 hours a week).
     - You are not intelligent enough to do research (e.g., You work 40 hrs a week but you are not getting anywhere). 
     - (Which one are you?) 
 
