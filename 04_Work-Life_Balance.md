@@ -1,6 +1,6 @@
 Note: This document is primarily for graduate studnets who does research (Ph.D. students, or master studnets who writes thesis). 
 
-Assumption: The underlying assumption of having "work-life balance" in a research lab is, regardless how much you get paid, a graduate student is a full time job. 
+Assumption: The underlying assumption of having "work-life balance" in a research lab is, regardless how much you get paid, a graduate student is *a full time job*. 
 
 
 ## Lab Attendnace Policy 
@@ -26,7 +26,11 @@ Assumption: The underlying assumption of having "work-life balance" in a researc
 
 ## Vacation Policy 
 
-- a Ph.D. student gets 15 working days off per year with 2 X N working days before where N is the number of date that you are going to use for vacation. e.g. If you are going to take a day off on Monday, you have to tell me at latest Thursday. 
-- However, if not noted, I would assume that you will be online (responsive).  For example, without prior notice, I will be expecting you to work during the Winter break or Spring break.
+- Being a graduate student is tough and, (hopefully) You DESERVE time off without feeling guilty and work stress. This is important to recharge yourself and gain energey for upcoming semesters. (I call this recharge guilty feelings by doing nothing.). The only thing that I ask you is to let me know in advance so that I cancel the meeting and do not feel offended when you compeltely ignore me.
+- a graduate student that I advise gets 15 working days off per year. One needs to tell me 2 X N working days before the off-days where N is the number of days that you are going to use for vacation. e.g. If you are going to take a day off on Monday, you have to tell me at latest Thursday (2 working days before Monday). 
+- In the beginning of every academic year (September), you will get new 15 working days (sorry no rollover). 
+- However, if not noted, I would assume that you will be working and responsive (online), regardless where you are. For example, without prior notice, I will be expecting you to work during the Winter break or Spring break (and I don't recommend that. You need a break) 
+- Holidays defined by HR at VT are off by default. (You don't use vacation days on these days.) https://www.hr.vt.edu/benefits/leave/holiday-closing-schedule.html
 - Being on a different physical location does not mean that you are forced to use your vacation day, you can be online and work remotely.
-- You do not have to work on weekends or states holidays although you can if you would like to distribute your work flexibly.  One of the benefits of being an academic is you can choose the times that you work, which means that you can distribute working hours in any way you want. However, I don't expect you to be responsive on weekends or holidays.
+- You do not have to work on weekends or holidays (defined by HR at Virginia Tech) although you can if you would like to distribute your work flexibly. One of the benefits of being an academic is you can choose the times that you work, which means that you can distribute working hours in any way you want. However, I don't expect you to be responsive on weekends or holidays.
+- Request your vacation without guilty feeling via this form. No questions asked if you follow the policy. https://forms.gle/kwFWymeUjbrp9gVZA
