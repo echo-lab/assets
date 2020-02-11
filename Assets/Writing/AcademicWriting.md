@@ -2,7 +2,7 @@
 
 # Be repeative. 
 
-## 3 rules on what tow rite in writing. 
+## 3 rules on what to write in writing. 
 
 - Say what you are going to say. (Have a topic sentence in fron in every level e.g. paragraph, subsection, section, paper) 
 - Say it. (Support the topic sentence) 
