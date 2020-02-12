@@ -7,3 +7,6 @@ Got some thoughts while I was working on a survey design, which I think it's nic
 I am pretty sure there is a formal way to describe this but I have never learned the topic. If you are interested in these, please consider to take a formal courses like below.  This following course can count as a cognate course for CS Ph.D. students in Virginia Tech.
 
 EDRE 5644: Questionnaire Design and Survey Research
+
+* Useful resources
+- even or odd number of choices in the Likert question? https://www.researchgate.net/post/What_are_the_implications_of_using_even_or_odd_Likert_scales_for_a_research_survey
