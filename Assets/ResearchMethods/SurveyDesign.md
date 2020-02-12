@@ -12,3 +12,4 @@ EDRE 5644: Questionnaire Design and Survey Research
 - even or odd number of choices in the Likert question? https://www.researchgate.net/post/What_are_the_implications_of_using_even_or_odd_Likert_scales_for_a_research_survey
 - Wording for rating scales
 http://oregon.4h.oregonstate.edu/sites/default/files/projects/ya4-h/uwex_wordingforratingscales.pdf
+- LIKERT SCALE samples https://researchbasics.education.uconn.edu/likert_scales/
