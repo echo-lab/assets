@@ -8,6 +8,22 @@
 - Say it. (Support the topic sentence) 
 - Say what you said. (Summarize or reveal the reason why you build up) 
 
+### 3 rules for paragaph
+
+- Start a paragraph with a topic sentence. 
+- Write sentences that supports the topic setence 
+- Briefly summarize it at the end and tell them what they should take away from this paragraph. 
+
+### 3 rules for paper
+
+- In the introduction, you should give them a summarized version of the whole paper including, motivation, gotal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprise. Make them know what's upcoming. Make the paper predictable. 
+
+### 3 rules for subsection/section
+
+- the very first sentence of subsection/section should describe what the section is about. 
+- if you stick to this principle, you should be able to write a draft of an abstract by collecting the first sentence of each section. 
+
+
 ## Let them understand what I want to tell by 
 
 - reading the title (10 seconds version of your paper) 
