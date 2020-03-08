@@ -6,10 +6,25 @@ Assumption: The underlying assumption of having "work-life balance" in a researc
 ## Lab Attendnace Policy 
 
 
-## Working Hours Policy 
+
+## Ph.D. Working hours
+
+- A Ph.D. student is a tough job because you have to do lots of different works. See this video for more detail. http://pgbovine.net/PG-Vlog-128-PhD-student-challenging-job.htm
+- One of the challenges is that you are (typically) getting paid for less than half your working hours. 
+- If you are on an assistantship (GTA/GRA), this means that you are getting paid for the work that you do towards a research project or teaching. Typically it is up to 20 hrs a week. 
+- Does that mean that your responsibility is done if you work 20 hrs? Totally. Except the fact that you will not be able to graduate and get Ph.D. if you work only 20 hrs a week because you will spend all of your time on doing something that is not going to be your dissertation unless you supervisor is super-rich and your GRA work or GTA work count towards directly your dissertation and you got multiple publications out of it. 
+- For example, there are so many disciplines that have no GRA at all. (i.e., social science). Suppose a Ph.D. student gets funded via GTA only, and they don't work at all outside their teaching. That means that they are not writing their dissertation, and they cannot get a Ph.D. 
+- Other than 20 hrs a week's responsibility, the rest of the time is up to you. If you work zero hours on your research, that's fine, but you won't be able to get a Ph.D. then. Therefore, advisors have to expect you to work more hours than you are getting paid to, *not because they want to get free labors, but because that's what you signed up for*. Yes, you signed up for it. I hope nobody asked (or is forcing you to do a Ph.D. I discourage people not to do a Ph.D. because it is a financially ridiculous thing to do. 
+- Some people may be extremely lucky for working as a GRA, and the work that they do directly goes to their dissertation. However, this is not common. (Or you can try your best to use your GRA projects for your dissertation). And it is not the faculty advisor's responsibility to fund whatever that the student wants to do. It works based on mutual agreement and the availability of the advisor's funding.
+- Also, note that taking coursework does not count towards your research. 
+- If you take two courses and one seminar (7 credits) and work as a GTA, based on the assumption that you will spend 14 hours per week for courses that you take (7 hrs for attending the class, extra 7 hrs for doing homework, preparing exams). This means that you will work 34 hours a week for your coursework and GTA and still work zero hours for your research, you won't be able to graduate. Even before that, you won't be able to pass the qualifier exam because, typically, it is to check if the student is ready for Ph.D. research. Therefore you would have to work X number of hours to make some progress in your research with your advisor. if X is 6, it is 40 hrs a week (a typical full-time worker) but that your progress is going to be slow probably. If X is 26, you work 60 hrs a week. if X is 0, you work 34 hours a week, but you are not getting anywhere.
+- Let's face it, why would you want to work 34 hours a week and get underpaid if you can't get the Ph.D. out of it? Is this something that you really want to do? Doing a Ph.D. is not for everyone. It is for something for those who would have other types of rewarding functions along the way. 
+- Some may ask me how many hours do I have to work as a Ph.D. student. That is the wrong question. The right question is, do you want to get a Ph.D.? How quickly do you want to get it? And how many publications do you want to have by the time that you want to graduate? What kinds of career goals do you have? How many papers does tho one who has your dream job when they graduated? If you have answers to those questions, figure out how many hours you think you have to work to accomplish your desire. I will be happy to discuss this in person. 
+
+## Time management
 
 0. This is purely for research hours 
-   - Not the hours you spend for other activities (etc., TA, coursework, services) 
+   - Not the hours you spend for other activities,  (etc., GRA, GTA, coursework, services). X hours in the previous section
 1. *Know how much you want to work (Desire).*
 2. *Keep track of your time (Reality).* 
    - Know how much you (actually) work. 
@@ -23,6 +38,7 @@ Assumption: The underlying assumption of having "work-life balance" in a researc
     - You are not serious about this job (e.g., Your desire is to work 5 hours a week).
     - You are not intelligent enough to do research (e.g., You work 40 hrs a week but you are not getting anywhere). 
     - (Which one are you?) 
+    
 
 ## Vacation Policy 
 
