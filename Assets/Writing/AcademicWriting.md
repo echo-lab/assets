@@ -10,13 +10,13 @@
 
 ### 3 rules for paragaph
 
-- Start a paragraph with a topic sentence. 
-- Write sentences that supports the topic setence 
-- Briefly summarize it at the end and tell them what they should take away from this paragraph. 
+- (the first sentence) Start a paragraph with a topic sentence (why you are writing this paragraph). 
+- (everythign else) Write sentences that supports the topic setence 
+- (the last sentence) Briefly summarize it at the end and tell them what they should take away from this paragraph. 
 
 ### 3 rules for paper
 
-- In the introduction, you should give them a summarized version of the whole paper including, motivation, gotal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprise. Make them know what's upcoming. Make the paper predictable. 
+- In the introduction, you should give them a summarized version of the whole paper including, motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprise. Make them know what's upcoming. Make the paper predictable. 
 
 ### 3 rules for subsection/section
 
