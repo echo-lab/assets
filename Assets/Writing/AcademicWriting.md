@@ -14,11 +14,11 @@
 - (everythign else) Write sentences that supports the topic setence 
 - (the last sentence) Briefly summarize it at the end and tell them what they should take away from this paragraph. 
 
-### 3 rules for paper
+### rules for paper
 
 - In the introduction, you should give them a summarized version of the whole paper including, motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprise. Make them know what's upcoming. Make the paper predictable. 
 
-### 3 rules for subsection/section
+### rules for subsection/section
 
 - the very first sentence of subsection/section should describe what the section is about. 
 - if you stick to this principle, you should be able to write a draft of an abstract by collecting the first sentence of each section. 
@@ -29,10 +29,11 @@
 - reading the title (10 seconds version of your paper) 
 - reading the abstract (2 minute version of your paper) 
 - reading the introduction (5 minute version of your paper) 
-- reading the conclusion (3 minute version of your paper
+- reading the conclusion (3 minute version of your paper)
 
 # Be scientific. 
 
+- "Scientific" simply means "numbers". 
 
 
 
@@ -56,6 +57,8 @@
   - causal inference
   - before vs. after  ( mirrored Related works) 
 - (Limitation) 
+  - Frame every limitation you have as (a) yes a possible weakness, (b) not actually a large problem, and (c) an opportunity for future work. (Credit: Jacob Thebault-Spieker) 
+  - Think of the limitation section like the last diss battle in 8 Miles (you diss yourself so your opponent has nothing to say but claim that you are still cool even with all the flaws.) https://www.youtube.com/watch?v=C7UQHgZZAfU
 - (Future Work) 
 - Conclusion --> 3 minute version of your paper
   - summarize result
