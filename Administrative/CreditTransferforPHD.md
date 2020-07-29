@@ -1,6 +1,6 @@
 
 
-#Email Template#
+#Email Template
 
 Dear Professor XXYY, 
  
