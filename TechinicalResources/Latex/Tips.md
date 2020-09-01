@@ -25,3 +25,9 @@
 \newcommand{\sys}{Remo}
 \newcommand{\capsys}{REMO}
 ```
+
+- If you would like sort reference by the ascending order of number, please use the following package.
+
+```
+\usepackage[numbers,sort]{natbib}
+```
