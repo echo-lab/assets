@@ -1,24 +1,6 @@
 
 # FAQ 
 
-## Sang Won Lee (echolab director)
-
-### Sang's office phone number?
-
-540-231-4857
-
-### Where's Sang's office located?
-1114 CRC (2202 Kraft Dr. Blacksburg 24060)
-
-### Sang's office hours schedule
-
-It is available in this calendar: https://calendar.google.com/calendar/u/0/embed?src=vt.edu_5tmbc6074d596tpc5a831qo3j0@group.calendar.google.com&ctz=America/New_York
-
-### What is Sang's personal zoom call?
-Sang's zoom call link: https://virginiatech.zoom.us/my/sangwonlee 
-
-### What is Sang's website?
-https://sangwonlee.com
 
 ## Echolab 
 
@@ -39,6 +21,12 @@ https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
 ### Is there any equipment or resources/gadgets that we can check out from the lab?
 Yes you can see the list here: https://docs.google.com/spreadsheets/d/15MMN-L71muFZ6XsXugaZv0JZKoxsR7KxLGTP9dQhTvw/edit?usp=sharing
 
+### When is the stand-up report due?
+Every Tuesday noon
+
+### Where do we find Lab meeting agenda?
+https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
+
 ## Resesarch
 
 ### Where do I download ACM papers for free? (for VT students) 
@@ -57,13 +45,17 @@ If you are a graduate student and want to take some days off, please read the fo
 Let them fill out this form. https://forms.gle/gzM3fb5iK9Jt1SPLA
 
 
-## Logistics 
+
+
+## Administrative 
 
 ### How do I prepare a travel?
 Aah, I'm jealous. Check out this document. https://github.com/echo-lab/lab-policy/blob/master/Assets/Administrative/Travel.md
 
-### When is the stand-up report due?
-Every Tuesday noon
+### What is the mail code of CS? 
+106
+
+## Resources
 
 ### I want to learn web programming. Any suggestions?
 The lectures that Sans has done in CS 3744 are available here. If this is your first to learn javascript for web programming that can be useful.  https://github.com/echo-lab/assets/blob/master/TechinicalResources/WebProgrammingClass(3744)/WebProgrammingLectures.md
@@ -72,10 +64,22 @@ The lectures that Sans has done in CS 3744 are available here. If this is your f
 Yes, of course. Sang has been collecting some advice and personal thoughts in the following pages.
 https://github.com/echo-lab/assets/blob/master/Writing/AcademicWriting.md
 
-### Where do we find Lab meeting agenda?
-https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
 
+## Sang Won Lee (echolab director)
 
+### Sang's office phone number?
 
+540-231-4857
 
+### Where's Sang's office located?
+1114 CRC (2202 Kraft Dr. Blacksburg 24060)
 
+### Sang's office hours schedule
+
+It is available in this calendar: https://calendar.google.com/calendar/u/0/embed?src=vt.edu_5tmbc6074d596tpc5a831qo3j0@group.calendar.google.com&ctz=America/New_York
+
+### What is Sang's personal zoom call?
+Sang's zoom call link: https://virginiatech.zoom.us/my/sangwonlee 
+
+### What is Sang's website?
+https://sangwonlee.com
