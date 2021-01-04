@@ -34,8 +34,7 @@
 # Be scientific. 
 
 - "Scientific" simply means "numbers". 
-
-
+- Cite as much as possible. Don't think that it is only Related Works section that needs citation. I cannot imagine a thesis that has no citation in its introduction for example. If  you don't have citation, imagine that what you wrote will be perceived as your unwarranted opinions, not something scientifically proven. If you cite a paper from the past, that means that you will have evidence that support your claims.
 
 # Structure of an Academic Paper
 
