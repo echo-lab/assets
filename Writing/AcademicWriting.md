@@ -80,7 +80,7 @@
 # Some random advices
   
   - The art of academic writing is not to impress readers but to make them difficult to disagree with you. 
-  
+  - Don't' say "I am particularly interested in" "We are interested in...." Nobody is interested in knowing what you're interested in. Justify the significance (why it matters) and the scope (what's covered in this paper and thus what the limitation is). Or the other way to say the same thing in a less sarcastic way: it is not convincing to say "because I am interested in XXXX" to the question of "why it matters?" Tell readers why this should be of everyone's interests rather.  
 
 # Writing Correctness and Style Pet Peeves (Prof. Tamara Munzner)
 ## Correctness
