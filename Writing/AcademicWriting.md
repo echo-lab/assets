@@ -64,7 +64,7 @@
 
 # Research Quetions (or equivalent) 
 - Research questions are essential. I know you can see lots of paper that RQs are skipped, but that does not mean you're fine without it. 
-- Reading good RQs can help readers expect what the research contribution will be (knowledge, what we get to know more about the world if we complete the study), guess how they are going to evaluate will be (method), and understand what the impact will be (significance/purpose/problem).
+- Reading good RQs can help readers expect what the research contribution will be (knowledge, what we get to know more about the world if we complete the study), guess how they are going to accomplish the goal (methods), and understand what the impact will be (significance/purpose/problem).
 - Make sure that your RQs are not centered around tools - becuase we can.. (e.g., because we now have Hololens 2 - what an awesome device that we should all study). Make it for puprpose.
 
 # Tense
