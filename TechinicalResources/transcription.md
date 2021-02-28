@@ -17,6 +17,10 @@ https://archive.mpi.nl/tla/elan
 
 - Trint, Happy Scribe, Sonix, Vocalmatic, Temi, Otter https://filmora.wondershare.com/aduio-editing/best-automatic-transcription-software.html
 
+# A good one for spanish Transcription Sonix Automatic transcription in 40+ languages
+
+- https://sonix.ai/
+
 
 
 Credit: Dash Elhauge  
