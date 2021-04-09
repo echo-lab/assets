@@ -28,7 +28,7 @@
 \newcommand{\capsys}{REMO}
 ```
 
-- If you would like sort reference by the ascending order of number, please use the following package.
+- If you would like sort multiple references in a bracket by the ascending order of number, please use the following package. For example, [23,4,68] will be ordered to [4,23,68] automatically. 
 
 ```
 \usepackage[numbers,sort]{natbib}
