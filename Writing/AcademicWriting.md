@@ -54,6 +54,21 @@
 - layman --> layperson for example. 
 
 
+# Make it easy to read. 
+
+## Write it in a way you can understand when someone read it aloud. 
+
+- (more to come) 
+
+## Avoid using multiple S+V pairs in one sentence. 
+
+- (more to come) 
+
+## Write a sentence and make it shorter than the spance of one line. If you wrote it in multiple lines, break them into two. 
+
+## 
+
+
 
 
 # Be scientific. 
@@ -111,6 +126,14 @@
   
   - The art of academic writing is not to impress readers but to make them difficult to disagree with you. 
   - Don't' say "I am particularly interested in" "We are interested in...." Nobody is interested in knowing what you're interested in. Justify the significance (why it matters) and the scope (what's covered in this paper and thus what the limitation is). Or the other way to say the same thing in a less sarcastic way: it is not convincing to say "because I am interested in XXXX" to the question of "why it matters?" Tell readers why this should be of everyone's interests rather.  
+
+# Some common errors in style
+
+- Put space in front of parenthesis or even avoid having parenthesis. 
+- Put period at the end of the sentence even after the citation. ( This is a great work [13]. --> Good. / This is a great work. [13] --> Bad) 
+- Hyphen is needed when multiple words are used as an adjective ( real-time communication vs. in real time) 
+- Avoid using multiple conjunctions, such as "and", in one sentence. It is going to be probably ambiguous. Write the same thing in multiple sentence) 
+- Comma is needed when there are more than two in your list. (A and B --> A, B, and C) 
 
 # Writing Correctness and Style Pet Peeves (Prof. Tamara Munzner)
 ## Correctness
