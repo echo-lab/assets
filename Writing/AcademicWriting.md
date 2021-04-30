@@ -1,6 +1,6 @@
 
 
-# Be repeative. 
+# Help readers navigate and predict. 
 
 ## 3 rules on what to write in writing. 
 
@@ -17,12 +17,14 @@
 ### rules for paper
 
 - In the introduction, you should give them a summarized version of the whole paper including, motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprise. Make them know what's upcoming. Make the paper predictable. 
-
+- one common mistake is to save something good for later. This is bad. Why your reader is not a person who will be sitting on a desk until they finish reading. (Movie theater vs. YouTube) Similar mistake is to try to suprise readers. Don't try to impress readers with surprise. 
+ 
 ### rules for subsection/section
 
 - the very first sentence of subsection/section should describe what the section is about. 
 - if you stick to this principle, you should be able to write a draft of an abstract by collecting the first sentence of each section. 
-
+- Make subsection and section as many as possoble, as deep as possbile. The section title will be a sign that help them navigate. Imagine a highway that have lots of exits without signs. 
+- Avoid general section titles if possible (e.g., introduction, discussion, result, etc). Think of sign that says "exit" vs. "exit: rest area" on a highway, which is more informative?  
 
 ## Let them understand what I want to tell by 
 
@@ -30,6 +32,29 @@
 - reading the abstract (2 minute version of your paper) 
 - reading the introduction (5 minute version of your paper) 
 - reading the conclusion (3 minute version of your paper)
+
+# Do not make readers guess. 
+
+## If you use pronoun, they have to guess
+
+- Don't use "this" alone. They cannot see your index finger. 
+
+## When you Comparative adjectives 
+
+- If you use comparative adjectives (e.g., more, better, quicker), use "than" and specify what you compare with. 
+
+## Avoid ambiguous expression 
+
+- one sentence should be interprested only in one way (e.g., 
+
+# Be inclusive.
+
+## use gender-netural terms if possible 
+
+- layman --> layperson for example. 
+
+
+
 
 # Be scientific. 
 
