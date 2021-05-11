@@ -13,3 +13,12 @@ EDRE 5644: Questionnaire Design and Survey Research
 - Wording for rating scales
 http://oregon.4h.oregonstate.edu/sites/default/files/projects/ya4-h/uwex_wordingforratingscales.pdf
 - LIKERT SCALE samples https://researchbasics.education.uconn.edu/likert_scales/
+
+
+# Likert Scale Data
+
+- Important things to note: The response categories in Likert scales have a rank order, but the intervals between values cannot be presumed equal. Therefore, the mean (and standard deviation) are inappropriate for ordinal data (Jamieson, 2004)
+
+- Statistics you can use are:
+  - Summarize using a median or a mode (not a mean as it is ordinal scale data ); the mode is probably the most suitable for easy interpretation.
+  - Display the distribution of observations in a bar chart (it can’t be a histogram, because the data is not continuous).
