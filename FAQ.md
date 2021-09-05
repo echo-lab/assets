@@ -44,6 +44,37 @@ If you are a graduate student and want to take some days off, please read the fo
 ### What if you know of someone who wants to work in Echolab?
 Let them fill out this form. https://forms.gle/gzM3fb5iK9Jt1SPLA
 
+### I am a Ph.D. student and am I on track and making a good progress? 
+
+The following is the minimum requirements and I wish no phd student should have to worry about these guidlines. However, if you feel like the following is a difficult goal to accomplish, you are in trouble. If you want to get a faculty job in R1 university, you need much much more than these. All the notion of academic year used below is from Summer(June) to Spring semester (May). 
+
+- Qualififcation (Ph.D. studnet --> Ph.D. Candidate) 
+  - Within two year, a Ph.D. student should have published (or at least submitted) **at least** one first-authored full paper to a top-tier HCI confernece (ACM CHI, ACM CSCW, or ACM UIST, for example.)  
+  - If you don't get qualified within two years, the department will think that you are not in good academic standing any more. (e.g., you may not be eligible for GTA any more) 
+  - You should form committee members (at least four VT faculty members) within two years.  
+- Preliminary Exam 
+  - To schedule a preliminary exam, you have to be qualified. 
+  - To schedule a preliminary exam, you have to form a complete committee. (3 CS + 1 Cognate + 1 External members) 
+  - To schedule a preliminary exam, you have to have at least first half of your dissertaion and the 2nd half can be a proposed work.  
+  - To schedule a preliminary exam, you should at least have two first-authored papers published so that you can set the narrative of your dissertation.  
+  - If you don't take preliminary exam within four years, you are not in good academic standing any more. (e.g., you may not be eligible for GTA any more) 
+
+- Research Defense 
+  - To schedule a research defense, you have to pass the preliminary exam.
+  - If you don't schedule the research defense date within five year, the department will think that you are not in good academic standing any more. (e.g., you may not be eligible for GTA any more). 
+  - To schedule a research defense, you should at least have three first-authored papers published. 
+  - To schedule a 
+
+- Defense 
+  - To schedule a defense, you have to pass the research defense. 
+
+- If your career goal is to get an academic job (faculty position), it's a completely different story.  
+  - It depends on which university you would like to go. 
+  - For example, if you want to go higher than VT for example.
+    - It is safe to assume that you will need at least 2 full papers per year on average during your Ph.d. 
+    - More than half of them should be first authored by you and gotta be top-tier conferneces/journal. 
+    - You have to have a compelling story in your dissertation. 
+  - If you want to go to a teaching-oriented school, people will be looking for TA experiences heavily (with research publicatiosn as well). 
 
 
 
