@@ -46,27 +46,30 @@ Let them fill out this form. https://forms.gle/gzM3fb5iK9Jt1SPLA
 
 ### I am a Ph.D. student and am I on track and making a good progress? 
 
-The following is the minimum requirements and I wish no phd student should have to worry about these guidlines. However, if you feel like the following is a difficult goal to accomplish, you are in trouble. If you want to get a faculty job in R1 university, you need much much more than these. All the notion of academic year used below is from Summer(June) to Spring semester (May). 
+The following is the minimum requirements and I wish no phd student should have to worry about these guidlines. However, if you feel like the following is a really challenging, probably you are behind the schedule. If you want to get a faculty job in R1 university, you need much much more than these. All the notion of academic year used below is from Summer(June) to Spring semester (May) so the first year will be shorter than usual. 
 
 - Qualififcation (Ph.D. studnet --> Ph.D. Candidate) 
   - Within two year, a Ph.D. student should have published (or at least submitted) **at least** one first-authored full paper to a top-tier HCI confernece (ACM CHI, ACM CSCW, or ACM UIST, for example.)  
   - If you don't get qualified within two years, the department will think that you are not in good academic standing any more. (e.g., you may not be eligible for GTA any more) 
-  - You should form committee members (at least four VT faculty members) within two years.  
+  - You should form committee members (at least four VT faculty members) within two years.
+    
 - Preliminary Exam 
   - To schedule a preliminary exam, you have to be qualified. 
   - To schedule a preliminary exam, you have to form a complete committee. (3 CS + 1 Cognate + 1 External members) 
   - To schedule a preliminary exam, you have to have at least first half of your dissertaion and the 2nd half can be a proposed work.  
   - To schedule a preliminary exam, you should at least have two first-authored papers published so that you can set the narrative of your dissertation.  
+  - To schedule a preliminary exam, you should know exactly which projects that you have to finish by Research Defense and present the plan. (Think of it as a contract.)   
   - If you don't take preliminary exam within four years, you are not in good academic standing any more. (e.g., you may not be eligible for GTA any more) 
 
 - Research Defense 
   - To schedule a research defense, you have to pass the preliminary exam.
   - If you don't schedule the research defense date within five year, the department will think that you are not in good academic standing any more. (e.g., you may not be eligible for GTA any more). 
   - To schedule a research defense, you should at least have three first-authored papers published. 
-  - To schedule a 
+  - To schedule a research defense, you should have completed what you proposed at the preliminary exam. (Think of it as validating if what was on the contract was done.)   
 
 - Defense 
   - To schedule a defense, you have to pass the research defense. 
+  - To schedule a defense, you have to address what was requested by the committee members. 
 
 - If your career goal is to get an academic job (faculty position), it's a completely different story.  
   - It depends on which university you would like to go. 
