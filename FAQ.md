@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
 Yes you can see the list here: https://docs.google.com/spreadsheets/d/15MMN-L71muFZ6XsXugaZv0JZKoxsR7KxLGTP9dQhTvw/edit?usp=sharing
 
 ### When is the stand-up report due?
-Every Tuesday noon
+Friday 3PM
 
 ### Where do we find Lab meeting agenda?
 https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
