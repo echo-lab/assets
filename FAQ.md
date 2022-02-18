@@ -27,7 +27,7 @@ Every Tuesday noon
 ### Where do we find Lab meeting agenda?
 https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
 
-## Resesarch
+## Research
 
 ### Where do I download ACM papers for free? (for VT students) 
 https://dl-acm-org.ezproxy.lib.vt.edu/
