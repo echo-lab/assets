@@ -4,7 +4,7 @@
 - Discuss with Sang regarding how much you should ask to which funding source. In geenral, you need to know the account number. 
 - If you do not want to use your own credit card, contact the person that you are submitting the approval form to (Teresa Hall for now).
 - Collect all the receipts that you spend while traveling.
-- Get reimbursed. Submit a reimbursement form and receipts. (https://admin.cs.vt.edu/viewfile.pl?filename=forms.html) 
+- Get reimbursed. Submit a reimbursement form and receipts. (https://admin.cs.vt.edu/forms/) 
 
 
 
