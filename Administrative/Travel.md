@@ -9,6 +9,6 @@
 # Travel Funding
 - CS Department: https://csgrad.cs.vt.edu/travel_funding/
 - CHCI : http://hci.vt.edu/programs/
-- Graduate School: https://blogs.lt.vt.edu/graduatestudentassembly/what-we-can-offer-you/funding-opportunities/travel-fund-program/
+- Graduate School: https://gpss.vt.edu/programs/tfp.html
 
 
