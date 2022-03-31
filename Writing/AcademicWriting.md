@@ -17,7 +17,7 @@
 ### rules for paper
 
 - In the introduction, you should give them a summarized version of the whole paper including, motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprise. Make them know what's upcoming. Make the paper predictable. 
-- one common mistake is to save something good for later. This is bad. Why your reader is not a person who will be sitting on a desk until they finish reading. (Movie theater vs. YouTube) Similar mistake is to try to suprise readers. Don't try to impress readers with surprise. 
+- One common mistake is to save something good for later. This is bad. Readers are not a captive audience who will be sitting on a desk until they finish reading. (Movie theater vs. Netflix) If they don't get it in the first few paragraphs, they will leave. Similar mistake is to try to suprise readers. Don't try to impress readers with surprise. Make your paper sound predictable so that they can expect what I am going to say. 
  
 ### rules for subsection/section
 
