@@ -39,7 +39,7 @@ Assumption: The underlying assumption of having "work-life balance" in a researc
     - Your time tracking is incorrect.
     - You are lying (to yourself or to me).
     - You are not serious about this job (e.g., you desire to work 5 hours a week).
-    - You are not intelligent enough to do research (e.g., You work 40 hrs a week, but you are not getting anywhere).
+    - Maybe research is not for you (e.g., if you work 40 hrs a week, but you are not getting anywhere, that means something).
     - (Which one are you?)
 
 
