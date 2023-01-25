@@ -15,8 +15,7 @@
 - CS Department: https://csgrad.cs.vt.edu/travel_funding/
 - CHCI : http://hci.vt.edu/programs/
 - Graduate School: https://gpss.vt.edu/programs/tfp.html
-- Undergraduate students: https://www.research.undergraduate.vt.edu/our-services/for-students/travel-support.html
-
+- Undergraduate students: https://www.research.undergraduate.vt.edu/funding-and-support/student-funding-and-support/travel-grant.html
 # Per-diem Rate
 - Domestic: https://www.gsa.gov/travel/plan-book/per-diem-rates
 - Foreign: https://aoprals.state.gov/Web920/per_diem.asp
