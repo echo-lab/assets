@@ -33,7 +33,7 @@ https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
 https://dl-acm-org.ezproxy.lib.vt.edu/
 
 ### can you show me some poster examples that other people made?
-This is an album that contains all the posters from CHI 2019. Enjoy. https://photos.app.goo.gl/jN9gDP9QxG6WZ6Ln7
+This is an album that contains all the posters from CHI 2019. Enjoy. https://photos.app.goo.gl/jN9gDP9QxG6WZ6Ln7 Also our lab's examples are here. https://drive.google.com/drive/u/0/folders/1F5GnYIvsryP2H2lHn9XXIzDbrmMo71Eu
 
 ### Where can I find my (and everyone else's) virtual standup reports?
 https://drive.google.com/drive/u/0/folders/1ohIDnvhZlPMNcMSshcC766QBSw4SzgXE
@@ -92,7 +92,7 @@ Aah, I'm jealous. Check out this document. https://github.com/echo-lab/lab-polic
 ## Resources
 
 ### I want to learn web programming. Any suggestions?
-The lectures that Sans has done in CS 3744 are available here. If this is your first to learn javascript for web programming that can be useful.  https://github.com/echo-lab/assets/blob/master/TechinicalResources/WebProgrammingClass(3744)/WebProgrammingLectures.md
+The lectures that Sang has done in CS 3744 are available here. If this is your first to learn javascript for web programming that can be useful.  https://github.com/echo-lab/assets/blob/master/TechinicalResources/WebProgrammingClass(3744)/WebProgrammingLectures.md
 
 ### Writing is tough. Can you get me some help?
 Yes, of course. Sang has been collecting some advice and personal thoughts in the following pages.
@@ -109,7 +109,7 @@ We have been collecting some questions from anyone in the lab who conducted inte
 540-231-4857
 
 ### Where's Sang's office located?
-1114 CRC (2202 Kraft Dr. Blacksburg 24060)
+3105 @ the Gilbert Place
 
 ### Sang's office hours schedule
 
