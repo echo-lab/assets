@@ -4,29 +4,29 @@
 
 ## 3 rules on what to write in writing. 
 
-- Say what you are going to say. (Have a topic sentence in fron in every level e.g. paragraph, subsection, section, paper) 
+- Say what you are going to say. (Have a topic sentence in front for every level e.g., paragraph, subsection, section, paper) 
 - Say it. (Support the topic sentence) 
 - Say what you said. (Summarize or reveal the reason why you build up) 
 
 ### 3 rules for paragaph
 
 - (the first sentence) Start a paragraph with a topic sentence (why you are writing this paragraph). 
-- (everythign else) Write sentences that supports the topic setence 
+- (everything else) Write sentences that support the topic sentence 
 - (the last sentence) Briefly summarize it at the end and tell them what they should take away from this paragraph. 
 
 ### rules for paper
 
-- In the introduction, you should give them a summarized version of the whole paper including, motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprise. Make them know what's upcoming. Make the paper predictable. 
-- One common mistake is to save something good for later. This is bad. Readers are not a captive audience who will be sitting on a desk until they finish reading. (Movie theater vs. Netflix) If they don't get it in the first few paragraphs, they will leave. Similar mistake is to try to suprise readers. Don't try to impress readers with surprise. Make your paper sound predictable so that they can expect what I am going to say. 
+- In the introduction, you should give them a summarized version of the whole paper including motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprises. Make them know what's upcoming. Make the paper predictable. 
+- One common mistake is to save something good for later. This is bad. Readers are not a captive audience who will be sitting on a desk until they finish reading. (Movie theater vs. Netflix) If they don't get it in the first few paragraphs, they will leave. A similar mistake is to try to surprise readers. Don't try to impress readers with surprise. Make your paper sound predictable so that they can expect what I am going to say. 
  
 ### rules for subsection/section
 
-- the very first sentence of subsection/section should describe what the section is about. 
+- the very first sentence of the subsection/section should describe what the section is about. 
 - if you stick to this principle, you should be able to write a draft of an abstract by collecting the first sentence of each section. 
-- Make subsection and section as many as possoble, as deep as possbile. The section title will be a sign that help them navigate. Imagine a highway that have lots of exits without signs. 
-- Avoid general section titles if possible (e.g., introduction, discussion, result, etc). Think of sign that says "exit" vs. "exit: rest area" on a highway, which is more informative?  
+- Make as many subsections and sections as possible. The section title will be signposts that help them navigate. Imagine a highway that has lots of exits without any signs. 
+- Avoid general section titles if possible (e.g., introduction, discussion, result, etc). Think of a sign that says "exit" vs. "exit: rest area" on a highway; which is more informative?  
 
-## Let them understand what I want to tell by 
+## Let them understand what I want to tell them by 
 
 - reading the title (10 seconds version of your paper) 
 - reading the abstract (2 minute version of your paper) 
@@ -49,9 +49,11 @@
 
 # Be inclusive.
 
-## use gender-netural terms if possible 
+## use gender-neutral terms if possible 
 
-- layman --> layperson for example. 
+- layman --> layperson, for example.
+- using "they" as a singular pronoun is recommended. (instead of he or she)
+
 
 
 # Make it easy to read. 
@@ -64,7 +66,7 @@
 
 - (more to come) 
 
-## Write a sentence and make it shorter than the spance of one line. If you wrote it in multiple lines, break them into two. 
+## Write a sentence and make it shorter than the span of one line. If you wrote it in multiple lines, break them into two. 
 
 ## 
 
@@ -81,7 +83,7 @@
 - Title --> 10 second version of your paper
 - Abstract --> 2 minute version of your paper
 - Introduction (motivation) --> 5 minute version of your paper
-  - prevew results 
+  - preview results 
   - research questions 
   - hypothesis
   - goals 
@@ -89,31 +91,31 @@
   - novelty - how we are different from other works. 
   - significance - but people care about this problem. 
 - Method
-  - what we did ; e.g. build a system 
-  - how we validated our claim ; e.g.  validate the system with a user study 
+  - what we did, e.g., build a system 
+  - how we validated our claim, e.g.,  validate the system with a user study 
 - Result
 - Discussion  (after your work) 
   - causal inference
   - before vs. after  ( mirrored Related works) 
 - (Limitation) 
-  - Frame every limitation you have as (a) yes a possible weakness, (b) not actually a large problem, and (c) an opportunity for future work. (Credit: Jacob Thebault-Spieker) 
+  - Frame every limitation you have as (a) yes, a possible weakness, (b) not actually a large problem, and (c) an opportunity for future work. (Credit: Jacob Thebault-Spieker) 
   - Think of the limitation section like the last diss battle in 8 Miles (you diss yourself so your opponent has nothing to say but claim that you are still cool even with all the flaws.) https://www.youtube.com/watch?v=C7UQHgZZAfU
 - (Future Work) 
-- Conclusion --> 3 minute version of your paper
+- Conclusion --> 3-minute version of your paper
   - summarize result
 
-# Research Quetions (or equivalent) 
+# Research Questions (or equivalent) 
 - Research questions are essential. I know you can see lots of paper that RQs are skipped, but that does not mean you're fine without it. 
 - Reading good RQs can help readers expect what the research contribution will be (knowledge, what we get to know more about the world if we complete the study), guess how they are going to accomplish the goal (methods), and understand what the impact will be (significance/purpose/problem).
-- Make sure that your RQs are not centered around tools - becuase we can.. (e.g., because we now have Hololens 2 - what an awesome device that we should all study). Make it for puprpose.
+- Make sure that your RQs are not centered around tools - because we can.. (e.g., because we now have Hololens 2 - what an awesome device that we should all study). Make it for puprpose.
 
 # Tense
 
 - (Past tense) 
   - when describing what people have done in the past. 
-  - when describing what you did in your method (implementation / user study) 
+  - when describing what you did in your method (implementation/user study) 
 - (Future tense) 
-  - Nope. No future tense is used in academic writing unless it is a proposal. Not even for a future work. (Say we "plan to") unless you are 100% sure that you "will" do it, which cannot be true. 
+  - Nope. No future tense is used in academic writing unless it is a proposal. Not even for future work. (Say we "plan to") unless you are 100% sure that you "will" do it, which cannot be true. 
 - (Present perfect tense) 
   - When you want to say what people "have done". This means that there is a body of work that multiple researchers worked on the topic that you describe. 
 - (Present tense) 
@@ -122,10 +124,13 @@
   - https://writingcenter.unc.edu/tips-and-tools/verb-tenses/
   - https://writeitrightstudycoach.wordpress.com/tips-for-writing-your-dissertation/
   
-# Some random advices
+# Some random advice
   
-  - The art of academic writing is not to impress readers but to make them difficult to disagree with you. 
-  - Don't' say "I am particularly interested in" "We are interested in...." Nobody is interested in knowing what you're interested in. Justify the significance (why it matters) and the scope (what's covered in this paper and thus what the limitation is). Or the other way to say the same thing in a less sarcastic way: it is not convincing to say "because I am interested in XXXX" to the question of "why it matters?" Tell readers why this should be of everyone's interests rather.  
+  - The art of academic writing is not to impress readers but to make it difficult to disagree with you. 
+  - Don't say "I am particularly interested in" "We are interested in...." Nobody is interested in knowing what you're interested in. Justify the significance (why it matters) and the scope (what's covered in this paper and thus what the limitation is). Or the other way to say the same thing in a less sarcastic way: it is not convincing to say "because I am interested in XXXX" to the question of "why it matters?" Tell readers why this should be of everyone's interest rather.
+  - Avoid inventing a new acronym unless you are going to use it so many times so it is much more convenient to do so. If the existing literature uses the acronym widely, it is acceptable to use it.
+  - Once  an acronym is introduced, you can assume that they will know the acronym (or it is their responsibility to remember it), which is why I do not think introducing a new acronym should be avoided as much as possible. If it is HCI, they will know what it is but for something that you invented, they would have to remember it.  Anyway, you don't have to introduce it multiple times. (Introducing it in abstract and introduction is fine.) 
+
 
 # Some common errors in style
 
@@ -146,7 +151,7 @@
 - please get principal/principle right. principal = main, principle = idea. PCA stands for Principal Components Analysis. PI stands for Principal Investigator.
 ## References
 - in a bibliography, always always hand-check bibtex that you get off the web. it's usually inconsistent or incomplete.
-- be consistent with journal/conference names. no need for publisher address unless it's someplace obscure, and no need for publisher if it's implicit in the conf/journal name (i.e. ieee/acm), and no need for the location of the conference. always doublecheck that the pages are in there (both the start and end page!). the only acceptable exceptions are when it really is an online-only venue where there are no explicit pages (examples include the BELIV workshop proceedings or the Foundations and Trends in Humanâ€“Computer Interaction journal).
+- be consistent with journal/conference names. no need for a publisher address unless it's someplace obscure, and no need for a publisher if it's implicit in the conf/journal name (i.e. ieee/acm), and no need for the location of the conference. always doublecheck that the pages are in there (both the start and end page!). the only acceptable exceptions are when it really is an online-only venue where there are no explicit pages (examples include the BELIV workshop proceedings or the Foundations and Trends in Humanâ€“Computer Interaction journal).
 - also be concise and consistent: 'Trans.' not 'Transactions', 'Symp.' not 'Symposium', 'Conf.' not 'Conference'. don't include words like "of the" or "on". Don't ever say 'pages', just 'p.'
 - do include the accepted nickname/shortname for conferences in parentheses after the long name. don't include the year after that nickname, it's already communicated by the year that comes at the end of the citation.
 - example of bad bibliography snarfed off the web:
