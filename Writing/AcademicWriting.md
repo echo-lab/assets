@@ -17,7 +17,16 @@
 ### rules for paper
 
 - In the introduction, you should give them a summarized version of the whole paper including motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprises. Make them know what's upcoming. Make the paper predictable. 
-- One common mistake is to save something good for later. This is bad. Readers are not a captive audience who will be sitting on a desk until they finish reading. (Movie theater vs. Netflix) If they don't get it in the first few paragraphs, they will leave. A similar mistake is to try to surprise readers. Don't try to impress readers with surprise. Make your paper sound predictable so that they can expect what I am going to say. 
+- One common mistake is to save something good for later. This is bad. Readers are not a captive audience who will be sitting on a desk until they finish reading. (Movie theater vs. Netflix) If they don't get it in the first few paragraphs, they will leave. A similar mistake is to try to surprise readers. Don't try to impress readers with surprise. Make your paper sound predictable so that they can expect what I am going to say.
+
+### one way to write the abstract
+
+- One or two sentences to expalin the context and the significance of it.
+- One or two sentences to expalin the problem that we are trying solve/study.
+- One or two sentences to expalin the goal of the study, which may involves what we did (e.g., The goal of the study is to study how we can use technologies to solve X)
+- One or two sentences to expalin what we did (method)
+- One or two sentences to expalin the (anticipated) result
+- (optional) One or two sentences to explain the implication/contribution of the work to the world.  
  
 ### rules for subsection/section
 
