@@ -148,7 +148,7 @@ server {
 ```
 
 HTTPS requires certs, so you need to get certs from VT or certbot (VT is recommended. I don't know the full process for certbot)
-For HTTPS Set-up do this:
+For HTTPS set-up with a single server/service do this:
 ```
 upstream SERVER_NAME {
 	server localhost:3000;
@@ -173,6 +173,49 @@ server {
 	}
 }
 ```
+
+HTTPS set up when using your own server.js and running it on a separate port:
+(Aka my website was a nextJS project running on port 3000 and I had a node.js server running on port 8080)
+You need to add another location block to redirect your requests:
+```
+upstream SERVER_NAME {
+	server localhost:3000;
+}
+
+upstream requests {
+	server localhost:8080;
+}
+
+server {
+	listen 443 ssl; 
+	server_name PROJECT_NAME.cs.vt.edu;
+	ssl_certificate /etc/nginx/certs/PROJECT_NAME.cs.vt.edu.pem;
+	ssl_certificate_key /etc/nginx/certs/PROJECT_NAME.cs.vt.edu.new.key;
+
+	location / {
+		proxy_pass http://SERVER_NAME;
+		proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+		proxy_set_header X-Forwarded-Proto https;
+		proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+		proxy_redirect off;
+	}
+
+	location /research/ {
+        proxy_pass http://requests;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        }
+
+    }
+}
+```
+Basically this adds in a redirect whenever it sees PROJECT_NAME.cs.vt.edu/research/. You will need to go into your server.js and index.js file and make sure all of your posts are redirected like so: app.post('/research/NAME/' ...).
 
 #### Update firewall
 We need to update firewall settings to allow traffic on ports. This example is for port 8080. I needed to do the same for my MongoDB port (8080) and port 80/443 for nginx
