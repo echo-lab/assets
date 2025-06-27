@@ -114,9 +114,10 @@
   - summarize result
 
 # Research Questions (or equivalent) 
-- Research questions are essential. I know you can see lots of paper that RQs are skipped, but that does not mean you're fine without it. 
+- Research questions are essential. I know you can see lots of papers where RQs are skipped, but that does not mean you're fine without them. You should have them internally at least. If you are not including them in a paper, that's perhaps because you don't have good research questions. 
 - Reading good RQs can help readers expect what the research contribution will be (knowledge, what we get to know more about the world if we complete the study), guess how they are going to accomplish the goal (methods), and understand what the impact will be (significance/purpose/problem).
-- Make sure that your RQs are not centered around tools - because we can.. (e.g., because we now have Hololens 2 - what an awesome device that we should all study). Make it for puprpose.
+- The easiest way to get a paper rejected is to provide incorrect RQs. The answers to the research questions should be available within the paper. 
+- Make sure that your RQs are not centered around tools/technology - don't ask RQ because we can.. (e.g., How can we use new AR technology for remote meetings?). Make it for a purpose. (e.g., How can we facilitate seamless integration of remote participants using AR technologies?) 
 
 # Tense
 
