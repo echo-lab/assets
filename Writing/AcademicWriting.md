@@ -16,58 +16,63 @@
 
 ### rules for paper
 
-- In the introduction, you should give them a summarized version of the whole paper including motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything for later surprise. People hate surprises. Make them know what's upcoming. Make the paper predictable. 
+- In the introduction, you should give them a summarized version of the whole paper, including motivation, goal, what we did (method), the result, and what we learned. Give them what they want and do not hide anything fora  later surprise. People hate surprises. Make them know what's upcoming. Make the paper predictable. 
 - One common mistake is to save something good for later. This is bad. Readers are not a captive audience who will be sitting on a desk until they finish reading. (Movie theater vs. Netflix) If they don't get it in the first few paragraphs, they will leave. A similar mistake is to try to surprise readers. Don't try to impress readers with surprise. Make your paper sound predictable so that they can expect what I am going to say.
 
 ### one way to write the abstract
 
-- One or two sentences to expalin the context and the significance of it.
-- One or two sentences to expalin the problem that we are trying solve/study.
-- One or two sentences to expalin the goal of the study, which may involves what we did (e.g., The goal of the study is to study how we can use technologies to solve X)
-- One or two sentences to expalin what we did (method)
-- One or two sentences to expalin the (anticipated) result
+- One or two sentences to explain the context and the significance of it.
+- One or two sentences to explain the problem that we are trying to solve/study.
+- One or two sentences to explain the goal of the study, which may involve what we did (e.g., The goal of the study is to study how we can use technologies to solve X)
+- One or two sentences to explain what we did (method)
+- One or two sentences to explain the (anticipated) result
 - (optional) One or two sentences to explain the implication/contribution of the work to the world.  
  
 ### rules for subsection/section
 
-- the very first sentence of the subsection/section should describe what the section is about. 
-- if you stick to this principle, you should be able to write a draft of an abstract by collecting the first sentence of each section. 
+- The very first sentence of the subsection/section should describe what the section is about. 
+- If you stick to this principle, you should be able to write a draft of an abstract by collecting the first sentence of each section. 
 - Make as many subsections and sections as possible. The section title will be signposts that help them navigate. Imagine a highway that has lots of exits without any signs. 
 - Avoid general section titles if possible (e.g., introduction, discussion, result, etc). Think of a sign that says "exit" vs. "exit: rest area" on a highway; which is more informative?  
 
 ## Let them understand what I want to tell them by 
 
-- reading the title (10 seconds version of your paper) 
-- reading the abstract (2 minute version of your paper) 
-- reading the introduction (5 minute version of your paper) 
-- reading the conclusion (3 minute version of your paper)
+- reading the title (5 seconds version of your paper) 
+- reading the abstract (1-minute version of your paper) 
+- reading the introduction (5-minute version of your paper) 
 
 # Do not make readers guess. 
 
-## If you use pronoun, they have to guess
+## If you use a pronoun, they have to guess
 
 - Don't use "this" alone. They cannot see your index finger. 
 
-## When you Comparative adjectives 
+## When you use Comparative adjectives 
 
 - If you use comparative adjectives (e.g., more, better, quicker), use "than" and specify what you compare with. 
 
 ## Avoid ambiguous expression 
 
-- one sentence should be interprested only in one way (e.g., 
+- one sentence should be interpreted only in one way (e.g.,
+
+## Use active voice
+
+- Using passive voice is a sneaky way to skip the subject ("by whom"), thereby making readers guess what the subject of a sentence is.
+
+- 
 
 # Be inclusive.
 
 ## use gender-neutral terms if possible 
 
 - layman --> layperson, for example.
-- using "they" as a singular pronoun is recommended. (instead of he or she)
+- Using "they" as a singular pronoun is recommended. (instead of he or she)
 
 
 
 # Make it easy to read. 
 
-## Write it in a way you can understand when someone read it aloud. 
+## Write it in a way you can understand when someone reads it aloud to you. (use TTS and see if you can understand).  
 
 - (more to come) 
 
@@ -75,9 +80,8 @@
 
 - (more to come) 
 
-## Write a sentence and make it shorter than the span of one line. If you wrote it in multiple lines, break them into two. 
+## Write a sentence and make it shorter than the span of a few lines. If you wrote it in more than 2 lines, consider breaking them into two. 
 
-## 
 
 
 
@@ -85,13 +89,13 @@
 # Be scientific. 
 
 - "Scientific" simply means "numbers". 
-- Cite as much as possible. Don't think that it is only Related Works section that needs citation. I cannot imagine a thesis that has no citation in its introduction for example. If  you don't have citation, imagine that what you wrote will be perceived as your unwarranted opinions, not something scientifically proven. If you cite a paper from the past, that means that you will have evidence that support your claims.
+- Cite as much as possible. Don't think that it is only the Related Work section that needs citation. I cannot imagine a thesis that has no citation in its introduction, for example. If you don't havea  citation, imagine that what you wrote will be perceived as your unwarranted opinions, not something scientifically proven. If you cite a paper from the past, that means that you will have evidence that supports your claims.
 
 # Structure of an Academic Paper
 
-- Title --> 10 second version of your paper
-- Abstract --> 2 minute version of your paper
-- Introduction (motivation) --> 5 minute version of your paper
+- Title --> 10-second version of your paper
+- Abstract --> 2-minute version of your paper
+- Introduction (motivation) --> 5-minute version of your paper
   - preview results 
   - research questions 
   - hypothesis
@@ -101,7 +105,7 @@
   - significance - but people care about this problem. 
 - Method
   - what we did, e.g., build a system 
-  - how we validated our claim, e.g.,  validate the system with a user study 
+  - how we validated our claim, e.g.,  validated the system with a user study 
 - Result
 - Discussion  (after your work) 
   - causal inference
@@ -127,7 +131,7 @@
 - (Future tense) 
   - Nope. No future tense is used in academic writing unless it is a proposal. Not even for future work. (Say we "plan to") unless you are 100% sure that you "will" do it, which cannot be true. 
 - (Present perfect tense) 
-  - When you want to say what people "have done". This means that there is a body of work that multiple researchers worked on the topic that you describe. 
+  - When you want to say what people "have done". This means that there is a body of work that multiple researchers have worked on the topic that you describe. 
 - (Present tense) 
   - everything else.
 - Useful Links
@@ -138,8 +142,8 @@
   
   - The art of academic writing is not to impress readers but to make it difficult to disagree with you. 
   - Don't say "I am particularly interested in" "We are interested in...." Nobody is interested in knowing what you're interested in. Justify the significance (why it matters) and the scope (what's covered in this paper and thus what the limitation is). Or the other way to say the same thing in a less sarcastic way: it is not convincing to say "because I am interested in XXXX" to the question of "why it matters?" Tell readers why this should be of everyone's interest rather.
-  - Avoid inventing a new acronym unless you are going to use it so many times so it is much more convenient to do so. If the existing literature uses the acronym widely, it is acceptable to use it.
-  - Once  an acronym is introduced, you can assume that they will know the acronym (or it is their responsibility to remember it), which is why I do not think introducing a new acronym should be avoided as much as possible. If it is HCI, they will know what it is but for something that you invented, they would have to remember it.  Anyway, you don't have to introduce it multiple times. (Introducing it in abstract and introduction is fine.) 
+  - Avoid inventing a new acronym unless you are going to use it so many times that it is much more convenient to do so. If the existing literature uses the acronym widely, it is acceptable to use it.
+  - Once  an acronym is introduced, you can assume that they will know the acronym (or it is their responsibility to remember it), which is why I do not think introducing a new acronym should be avoided as much as possible. If it is HCI, they will know what it is, but for something that you invented, they would have to remember it.  Anyway, you don't have to introduce it multiple times. (Introducing it inthe  abstract and introduction is fine.) 
 
 
 # Some common errors in style
@@ -147,21 +151,21 @@
 - Put space in front of parenthesis or even avoid having parenthesis. 
 - Put period at the end of the sentence even after the citation. ( This is a great work [13]. --> Good. / This is a great work. [13] --> Bad) 
 - Hyphen is needed when multiple words are used as an adjective ( real-time communication vs. in real time) 
-- Avoid using multiple conjunctions, such as "and", in one sentence. It is going to be probably ambiguous. Write the same thing in multiple sentence) 
-- Comma is needed when there are more than two in your list. (A and B --> A, B, and C) 
+- Avoid using multiple conjunctions, such as "and", in one sentence. It is going to be probably ambiguous. Write the same thing in multiple sentence. 
+- A comma is needed when there are more than two items in your list. (A and B --> A, B, and C) 
 
 # Writing Correctness and Style Pet Peeves (Prof. Tamara Munzner)
 ## Correctness
-- avoid contractions in formal technical writing
-- every figure must be referenced in the main body text
+- Avoid contractions in formal technical writing
+- Every figure must be referenced in the main body text
 - "it's" is a contraction for "it is", not a possessive 
-- citations are grammatically invisible, you shouldn't use them for nouns. Correct: "The PivotGraph system [13] features a derived aggregate network". Incorrect: "Aggregation is also used in [13]".
+- Citations are grammatically invisible; you shouldn't use them for nouns. Correct: "The PivotGraph system [13] features a derived aggregate network". Incorrect: "Aggregation is also used in [13]".
 - whether to hyphenate a noun phrase depends on how it is used. Use "foo bar" when a noun phrase is used as a noun, and "foo-bar" when the phrase is used as an adjective. Correct: "we lay out elements end to end in a line" (noun), "we make an end-to-end argument as in networking" (adjective).
-- in a similar spirit, "lay out" is a verb and "layout" is a noun. Correct: "we lay out the graph splendidly" (verb use), "the layout is splendid because" (noun use).
-- please get principal/principle right. principal = main, principle = idea. PCA stands for Principal Components Analysis. PI stands for Principal Investigator.
+- In a similar spirit, "lay out" is a verb and "layout" is a noun. Correct: "we lay out the graph splendidly" (verb use), "the layout is splendid because" (noun use).
+- Please get principal/principle right. principal = main, principle = idea. PCA stands for Principal Components Analysis. PI stands for Principal Investigator.
 ## References
-- in a bibliography, always always hand-check bibtex that you get off the web. it's usually inconsistent or incomplete.
-- be consistent with journal/conference names. no need for a publisher address unless it's someplace obscure, and no need for a publisher if it's implicit in the conf/journal name (i.e. ieee/acm), and no need for the location of the conference. always doublecheck that the pages are in there (both the start and end page!). the only acceptable exceptions are when it really is an online-only venue where there are no explicit pages (examples include the BELIV workshop proceedings or the Foundations and Trends in Humanâ€“Computer Interaction journal).
+- In a bibliography, always always hand-check the BibTeX that you get off the web. It's usually inconsistent or incomplete.
+- be consistent with journal/conference names. no need for a publisher address unless it's someplace obscure, and no need for a publisher if it's implicit in the conf/journal name (i.e., IEEE/ACM), and no need for the location of the conference. always double-check that the pages are in there (both the start and end page!). The only acceptable exceptions are when it really is an online-only venue where there are no explicit pages (examples include the BELIV workshop proceedings or the Foundations and Trends in Humanâ€“Computer Interaction journal).
 - also be concise and consistent: 'Trans.' not 'Transactions', 'Symp.' not 'Symposium', 'Conf.' not 'Conference'. don't include words like "of the" or "on". Don't ever say 'pages', just 'p.'
 - do include the accepted nickname/shortname for conferences in parentheses after the long name. don't include the year after that nickname, it's already communicated by the year that comes at the end of the citation.
 - example of bad bibliography snarfed off the web:
