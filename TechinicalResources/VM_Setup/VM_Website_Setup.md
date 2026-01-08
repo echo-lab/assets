@@ -49,14 +49,39 @@ Exit vi (:wq) and install mongo (yum or dnf)
 sudo dnf install mongo-org
 ```
 	
-#### Run the database
-We made a data directory in our server folder. You could theoretically just run it globally or with systemctl but this is recommended to keep everything together. If you don't have a server folder just run it in the src folder. You may also need sudo for the mongod function.
-```bash
-cd /GITHUB_NAME/server
-mkdir data
-mongod --dbpath ./data
+#### Run the database (secure configuration)
+
+MongoDB should be managed via `systemctl` and bound to localhost only.
+
+Ensure `/etc/mongod.conf` contains:
+
+```yaml
+net:
+  port: 27017
+  bindIp: 127.0.0.1
+
+security:
+  authorization: enabled
 ```
-At this time you should have mongo and can run.
+
+Restart MongoDB:
+
+```bash
+sudo systemctl restart mongod
+sudo systemctl status mongod
+```
+Verify MongoDB is only listening locally:
+```bash
+ss -lntp | grep 27017
+```
+
+Expected output:
+```
+127.0.0.1:27017
+```
+Do not run MongoDB manually with mongod --dbpath on a public VM.
+
+The following shows how to use screen on the server:
 Exit out (CTRL+C) and 
 ```bash
 sudo dnf install screen
@@ -218,8 +243,7 @@ server {
 Basically this adds in a redirect whenever it sees PROJECT_NAME.cs.vt.edu/research/. You will need to go into your server.js and index.js file and make sure all of your posts are redirected like so: app.post('/research/NAME/' ...).
 
 #### Update firewall
-We need to update firewall settings to allow traffic on ports. This example is for port 8080. I needed to do the same for my MongoDB port (8080) and port 80/443 for nginx
-
+We need to update firewall settings to allow traffic on ports. MongoDB (port 27017) must **NOT** be opened in the firewall. Only application ports (e.g., 3000, 8080) and HTTP/HTTPS should be exposed.
 ```javascript
 sudo firewall-cmd --zone=public --query-port=8080/tcp
 no                                                          //Response from server
@@ -266,6 +290,23 @@ sudo semodule -l | grep nginx_proxy
 sudo setenforce 1
 sudo systemctl restart nginx
 ```
+## Connecting to MongoDB (MongoDB Compass)
+
+MongoDB must not be accessed via the server’s public IP.
+
+### Option A: SSH Tunnel (Manual)
+On your local machine:
+```bash
+ssh -L 27017:localhost:27017 your_user@PROJECT_NAME.cs.vt.edu
+```
+Keep the terminal open. Then connect in MongoDB Compass:
+
+- Host: localhost
+
+- Port: 27017
+
+- Auth DB: admin
+
 Hopefully this is all you need to get your system to run 
 
 
