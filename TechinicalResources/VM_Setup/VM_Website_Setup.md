@@ -307,6 +307,10 @@ Keep the terminal open. Then connect in MongoDB Compass:
 
 - Auth DB: admin
 
+### Option B: MongoDB Compass Built-in SSH
+
+Another way to connect to your remote DB is by enabling SSH Tunnel in MongoDB Compass.
+
 Hopefully this is all you need to get your system to run 
 
 
