@@ -9,11 +9,13 @@
 Here you go! https://github.com/echo-lab/assets/tree/master/Lab-Logo
 
 ### I have to write an IRB. Can somebody help?
-Here are some samples that we have already.  https://drive.google.com/drive/folders/1VnXQDlUQ8Mz4N3BR-fvukO43bpIMbBgj?usp=sharing Once you complete and get it approved, make sure that you post your IRB protocol and other documents as well.
+Here are some samples that we already have.  https://drive.google.com/drive/folders/1VnXQDlUQ8Mz4N3BR-fvukO43bpIMbBgj?usp=sharing Once you complete and get it approved, make sure that you post your IRB protocol and other documents as well.
 
 ### Where is the lab?
-1133, KW II, 2202, Kraft Drive, Blacksburg, VA 24060
-You need a key to access the lab though.
+Gilbert Place Room 3102
+220 Gilbert St, Blacksburg, VA 24060
+Blacksburg, VA 24060
+You need a key to access the lab, though.
 
 ### Where do we find Lab meeting agenda?
 https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
@@ -22,7 +24,7 @@ https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
 Yes you can see the list here: https://docs.google.com/spreadsheets/d/15MMN-L71muFZ6XsXugaZv0JZKoxsR7KxLGTP9dQhTvw/edit?usp=sharing
 
 ### When is the stand-up report due?
-Friday 3PM
+Friday 3:30 PM
 
 ### Where do we find Lab meeting agenda?
 https://drive.google.com/drive/folders/1Z-3jMGyImdKIksV8SBAbFsyy2WA732iZ
