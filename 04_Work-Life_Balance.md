@@ -49,7 +49,8 @@ Assumption: The underlying assumption of having "work-life balance" in a researc
 
 ## Vacation Policy
 
-- Being a graduate student is tough, and (hopefully) you DESERVE time off without feeling guilty and work stress. This is important to recharge yourself and gain energy for the upcoming semesters. (I call this recharge guilty feelings by doing nothing.) The only thing that I ask you is to let me know in advance so that I can cancel the meeting, and do not feel offended when you completely ignore me.
+- Being a graduate student is tough, and you deserve time off without feeling guilty or stressed about work. Taking a break helps you recharge and prepare for upcoming semesters. Please let me know in advance so I can cancel any meetings, and don’t feel offended if you completely ignore me while you’re away.
+- Unused vacation days do not roll over, so make sure to take good breaks. If you need more than 15 working days of vacation, discuss it with Sang.
 - A graduate student that I advise gets 15 working days off per year. One needs to tell me 2 X N working days before the off-days, where N is the number of days that you are going to use for vacation. e.g., If you are going to take a day off on Monday, you have to tell me at the latest Thursday (2 working days before Monday).
 - At the beginning of every academic year (September), you receive 15 working days of vacation. Unused days do not roll over, encouraging graduate students to take regular breaks. If you need more than 15 working days, discuss it with Sang.
 - However, if not noted, I would assume that you will be working and responsive (online), regardless of where you are. For example, without prior notice, I will be expecting you to work during the Winter break or Spring break (and I don't recommend that. You need a break)
