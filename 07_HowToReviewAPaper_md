@@ -1,6 +1,28 @@
 Review Score
 
-- Reject is something that I give when I think I have to review this paper at least two more rounds because I don't want them to revise the paper and then reject it again. 
-- Major revision is something that I give when I think the paper is good but I would like to check if whether they made changes to my request.
-- Minor revision is something that I give when I have a trust with the authors that they will be able to easily accomplish the changes that I request. 
+- Reject is something that I give when I think I have to review this paper at least two more rounds, because I don't want them to revise the paper and then reject it again. 
+- Major revision is something that I give when I think the paper is good, but I would like to check whether they made changes to my request.
+- Minor revision is something that I give when I have trust in the authors that they will be able to easily accomplish the changes that I request. 
 - Accept is the one that I give when it is fantastic as is - no single change is needed. 
+
+
+
+HUMANE AND RIGOROUS REVIEW HEURISTICS:
+
+Please consider that the primary author may be a student or a first-time submitter. Also, remember that CHI/<insert conf title> is interdisciplinary, and authors may come from disciplines with different conventions and practices than our own. We stand to learn from one another when we approach these differences with curiosity and respect, rather than treating our own disciplinary conventions as the default.
+
+Below are a few heuristics that could be helpful in crafting a humane and rigorous review. 
+
+1. Center your feedback on the paper, not the authors
+> Evaluate the work, not the people. Consider constructions like "The paper would benefit from addressing X" (rather than "The authors fail to do X").
+> Review *this* version of the manuscript. Review the paper the authors set out to write, not the one you would have written.
+
+2. Be rigorous. Communicate the rigor with kindness.
+> Rigor and kindness can co-exist. We can be rigorous about the quality of the work while remaining thoughtful about how we communicate our concerns.
+> Write as though the author were sitting in front of you, where you could see the impact of your words on their face. The anonymity of peer review shouldn't change how respectfully we engage with someone's work.
+> Be constructive and actionable. "The paper would be stronger if..." is more helpful than "It is obviously wrong when..." Explain what isn't working, why it matters, and what might make the work stronger.
+
+3. Be selective, not rejective
+> The goal is to be selective, not rejective. We want to recognize and accept work that is ready, not approach reviewing as an exercise in finding reasons to reject.
+> For work that isn't ready, our goal is to provide useful, actionable, and courteous feedback that can help improve the work for a future submission.
+> A critical review can still be a constructive review communicated with care. Even when recommending rejection, we can help authors understand the concerns and see a constructive path forward.
